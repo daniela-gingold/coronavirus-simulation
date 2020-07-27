@@ -6,3 +6,4 @@ When we talface a pandemic and a virus is spreading at a very fast rate, it is v
 
 Our tool helps to analyze the spread with an interactive simulation.
 
+![img](/img/sim.jpg)
