@@ -1,0 +1,5 @@
+initial_sicks,num_of_houses,step_period,day_period,working_hours,infection_prob,super_period,synagogue_open,space,prey_time,allowed_age
+10,10,100,6000,12,0.3,3,1,2,5,"0,100"
+-1,10,100,6000,8,0.25,10,1,10,10,"0,60"
+-1,10,100,6000,4,0.2,6,0,10,1,"0,60"
+-1,10,100,6000,4,0.2,6,0,10,1,"0,60"
