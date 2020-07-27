@@ -1,7 +1,7 @@
 # coronavirus-simulation
 Coronavirus simulation is a decision support interactive tool. 
 
-When we face a pandemic and a virus is spreading at a very fast rate, it is very challenging to make a decision and choose the most effective policies that will contain the virus outbreak, i.e. the policies with minimal economic, political and social impacts.
+When we face a pandemic and a virus is spreading at a very fast rate, it is very challenging to make a decision and choose the most effective policies that will contain the virus outbreak, i.e. the policies with minimal economic, political and social impact.
 
 Coronavirus simulation tool helps to analyze the spread with an interactive simulation.
 
@@ -12,4 +12,4 @@ Coronavirus simulation tool helps to analyze the spread with an interactive simu
 
 
 
-The solution was developed during Hackorona's hackaton along with other team members.
+The solution was developed during Microsoft's Hackorona's hackaton along with other team members.
