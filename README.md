@@ -1,2 +1,2 @@
 # coronavirus-simulation
-Coronavirus Simulation - Decision Support Interactive Tool
+Coronavirus simulation - decision support interactive tool
