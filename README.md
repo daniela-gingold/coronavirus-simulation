@@ -8,7 +8,7 @@ Coronavirus simulation tool helps to analyze the spread with an interactive simu
 ![img](/img/sim.jpg)
 
 
-
+![image_1595874278](https://user-images.githubusercontent.com/53661358/88577564-e4edb980-d04f-11ea-8a13-f883763297ac.gif)
 
 
 
