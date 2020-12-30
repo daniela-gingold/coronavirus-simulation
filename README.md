@@ -10,6 +10,3 @@ Coronavirus simulation tool helps to analyze the spread with an interactive simu
 
 ![image_1595874278](https://user-images.githubusercontent.com/53661358/88577564-e4edb980-d04f-11ea-8a13-f883763297ac.gif)
 
-
-
-The solution was developed during Microsoft's Hackorona's hackaton along with other team members.
